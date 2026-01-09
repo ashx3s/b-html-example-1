@@ -7,12 +7,15 @@ Demonstration of how to write html files and preview them from vscode.
 - do all html tags need to be written the same?
 - is capitalization important?
 - can you use spaces in names?
-
+- does index.html have to be named like that?
+- how to make new files in vscode?
 
 ## HTML Demo Tasks
 
-- show how to set up a html file (is there any default content that needs to be there?)
-- explore how to write html syntax (what's important?)
+- X show how to set up a html file (is there any default content that needs to be there?)
+  - yes there is, use ! in html file to generate the boiler place code
+- X explore how to write html syntax (what's important?)
+  - opening + closing tag, visual content in the middle
 - create 2 levels of headings
 - create paragraph placeholder content
 - (optional) create an unordered list
@@ -20,7 +23,7 @@ Demonstration of how to write html files and preview them from vscode.
 ## Git Demo Tasks
 
 - X Initalize a repo
-- Push multiple sets of changes
-- initialize an html file
+- X Push multiple sets of changes
+- X initialize an html file
 - update the html file and then push it
-- share code with students
+- X share code with students
